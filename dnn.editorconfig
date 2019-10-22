@@ -8,7 +8,7 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[*.{xml,resx,dnn,ascx,aspx,htm,html,cshtml}]
+[*.{xml,config,resx,dnn,ascx,aspx,htm,html,cshtml}]
 indent_style = tab
 
 [*.resx]
