@@ -1,0 +1,10 @@
+# Cache and local options dirs
+.vs/
+
+# Build results
+bin/
+obj/
+
+# Packages
+packages/
+node_modules/
